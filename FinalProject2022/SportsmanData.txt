@@ -1,0 +1,16 @@
+sportsman_id;fname;lname;club;gender(bool)
+1;Rina;Zviel;Maccabi Haifa;0
+12;Benjamin;Salomon;Beitar Jerusalem;1
+3;Avraham;Shtub;Hapoel Haifa;1
+5;Ariel;Shamir;Maccabi Hod Hasharon;1
+6;Efrat;Neter;Maccabi Haifa;0
+4;Dizza;Beimel;Maccabi Hod Hasharon;0
+21;Chait;Shaham;Hapoel Haifa;0
+2;Yael;Moses;Maccabi Netanya;0
+7;Arie;Reichman;Hapoel Tel Aviv;1
+8;Dafna;Schwartz;Hapoel Haifa;0
+9;Michal;Armoni;Hapoel Haifa;0
+10;Aharon;Gero;Maccabi Haifa;1
+18;Gidi;Cohen;Maccabi Netanya;1
+19;Inna;Gefen;Maccabi Hod Hasharon;0
+23;Iotam;Evron;Hapoel Tel Aviv;1

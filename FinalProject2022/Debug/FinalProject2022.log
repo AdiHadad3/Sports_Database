@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר א'\C++\FinalProject2022\FinalProject2022\main.cpp(696,23): warning C4476: 'fprintf' : unknown type field character ',' in format specifier
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר א'\C++\FinalProject2022\FinalProject2022\main.cpp(727,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FinalProject2022.vcxproj -> C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר א'\C++\FinalProject2022\Debug\FinalProject2022.exe

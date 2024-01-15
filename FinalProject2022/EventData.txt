@@ -1,0 +1,45 @@
+format:sportsman_id,event,place,year
+1;Israel,National Championship,2013
+1;UK,European Championship,2011
+1;Portugal,World Championship,2018
+1;Belgium,World Cup,2011
+1;France,College Championship,2020
+3;Portugal,World Cup,2017
+3;Israel,National Championship,2009
+3;Belgium,European Cup,2011
+3;Germany,European Championship,2019
+3;USA,World Cup,2006
+5;France,World Cup,2010
+5;UK,Euro,2020
+5;Portugal,European Cup,2008
+6;USA,College National Championship,2017
+6;Portugal,European Cup,2008
+6;UK,European Championship,2016
+6;USA,World Cup,2006
+6;Canada,European Championship,2012
+4;Spain,World Cup,2014
+4;Germany,European Championship,2019
+4;Israel,National Championship,2020
+21;UK,World Cup,2014
+21;France,College Championship,2020
+21;Israel,National Championship,2020
+21;Belgium,European Championship,2011
+2;UK,World Cup,2014
+2;Israel,National Championship,2015
+2;Belgium,European Cup,2013
+7;Portugal,European Cup,2011
+7;Spain,World Cup,2014
+7;Canada,World Championship,2012
+9;Canada,College Championship,2012
+9;USA,World Championship,2016
+10;Canada,College Championship,2012
+10;UK,European Championship,2016
+10;UK,College Championship,2017
+18;UK,Euro,2020
+18;Germany,European Championship,2019
+18;Belgium,European Championship,2011
+19;Spain,World Cup,2014
+19;France,World Cup,2010
+19;Portugal,European Cup,2008
+19;Israel,National Championship,2015
+23;USA,World Cup,2006
